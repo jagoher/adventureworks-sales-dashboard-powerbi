@@ -13,7 +13,7 @@ Dashboard interactivo desarrollado en **Microsoft Power BI** utilizando el conju
 
 ## Página 2 – Análisis avanzado DAX
 
-<img width="1212" height="676" alt="dashboard_02" src="https://github.com/user-attachments/assets/f20e8449-f9f9-4a5a-8f5a-a330cabf860c" />
+<img width="1202" height="666" alt="image" src="https://github.com/user-attachments/assets/a7d3b074-96b9-4279-94cf-3b2c16a0e1b5" />
 
 
 ---

@@ -8,11 +8,13 @@ Dashboard interactivo desarrollado en **Microsoft Power BI** utilizando el conju
 
 ## Página 1 – Análisis de ventas
 
-> *(Añadir captura Dashboard_01.png)*
+<img width="1202" height="681" alt="dashboard_01" src="https://github.com/user-attachments/assets/033d27cf-76de-41e8-b473-feb27d8459ac" />
+
 
 ## Página 2 – Análisis avanzado DAX
 
-> *(Añadir captura Dashboard_02.png)*
+<img width="1212" height="676" alt="dashboard_02" src="https://github.com/user-attachments/assets/f20e8449-f9f9-4a5a-8f5a-a330cabf860c" />
+
 
 ---
 
